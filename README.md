@@ -69,7 +69,7 @@ Para resolver o problema proposto, a equipe desenvolveu o **EasyScrum**, uma apl
   <img src="img\LogoEasyScrum.png" alt="Tela principal do EasyScrum" width="300px"/>
 </p>
 
-* **Link do Repositório Git:** [https://github.com/seu-usuario/easyscrum](https://github.com/EquipeEcho/EasyScrum)
+* **Link do Repositório Git:** [https://github.com/EquipeEcho/EasyScrum](https://github.com/EquipeEcho/EasyScrum)
 
 * **Tecnologias Utilizadas:**
   * **HTML5:** Utilizado na estruturação semântica das páginas, trilhas de conteúdo e formulários de avaliação.
