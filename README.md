@@ -66,7 +66,7 @@ Funcionários de uma empresa enfrentam dificuldades para compreender a dinâmica
 Para resolver o problema proposto, a equipe desenvolveu o **EasyScrum**, uma aplicação web educacional interativa voltada ao ensino prático da metodologia Scrum. O sistema guia o usuário por meio de trilhas de aprendizagem estruturadas, simulações de Sprints, quizzes avaliativos e exemplos aplicados de cerimônias e artefatos ágeis, permitindo que assimilem o fluxo de trabalho antes e durante a execução dos projetos.
 
 <p align="center">
-  <img src="img\LogoEasyScrum.png" alt="Tela principal do EasyScrum" width="700px"/>
+  <img src="img\LogoEasyScrum.png" alt="Tela principal do EasyScrum" width="300px"/>
 </p>
 
 * **Link do Repositório Git:** [https://github.com/seu-usuario/easyscrum](https://github.com/EquipeEcho/EasyScrum)
@@ -108,7 +108,7 @@ Engenheiros de software necessitam de um ambiente de desenvolvimento integrado (
 Para resolver o problema proposto, a equipe desenvolveu o **BotEcho** uma aplicação desktop que integra um ambiente de desenvolvimento com suporte a análise de código Python, geração de gráficos e visualização de dados em tempo real com IA. O sistema permite que os engenheiros escrevam, testem e depurem scripts Python, visualizem gráficos interativos e exportem resultados diretamente para relatórios, otimizando o fluxo de trabalho e reduzindo erros manuais.
 
 <p align="center">
-  <img src="img\boteco_logo.png" alt="Interface do Projeto 2" width="700px"/>
+  <img src="img\boteco_logo.png" alt="Interface do Projeto 2" width="300px"/>
 </p>
 
 <details>
@@ -153,7 +153,7 @@ Nesse projeto atuei como **Desenvolvedor** e concentrei minha atuação no desen
 Para resolver o problema proposto, a equipe desenvolveu o **EchoNova**, um sistema web que automatiza a condução de entrevistas estruturadas com empresas clientes e gera diagnósticos estratégicos baseados em inteligência artificial. O sistema permite cadastrar questionários, coletar respostas em tempo real, analisar os dados e gerar relatórios detalhados que apoiam decisões estratégicas no mercado de treinamentos corporativos.
 
 <p align="center">
-  <img src="img\echonovaLogo.png" alt="Interface do Projeto 3" width="700px"/>
+  <img src="img\echonovaLogo.png" alt="Interface do Projeto 3" width="300px"/>
 </p>
 
 
@@ -199,7 +199,7 @@ A Guarnição de Caçapava enfrenta desafios na gestão de obras e na elaboraç�
 Para resolver o problema proposto, a equipe desenvolveu o **EchoCAD**, uma aplicação web para extrair informações de uma planta CAD e gerar automaticamente uma documentação técnica utilizando inteligência artificial. O sistema permite que os usuários façam upload de arquivos CAD, realizem a análise das plantas, calculem custos e cronogramas, e gerem relatórios técnicos padronizados, otimizando o fluxo de trabalho e reduzindo erros manuais.
 
 <p align="center">
-  <img src="img\logo-echocad.png" alt="Tela principal do sistema EchoCAD" width="700px"/>
+  <img src="img\logo-echocad.png" alt="Tela principal do sistema EchoCAD" width="300px"/>
 </p>
 
 * **Link do Repositório Git:** [https://github.com/EquipeEcho/echocad](https://github.com/EquipeEcho/echocad)
