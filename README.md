@@ -13,8 +13,9 @@
 * **Curso:** Tecnólogo em Análise e Desenvolvimento de Sistemas — FATEC São José dos Campos (Prof. Jessen Vidal)
 * **Histórico Acadêmico:** E.E.Prof Xenofonte Strabão de Castro, concluído em 2021. Atualmente cursando o 5º semestre de Análise e Desenvolvimento de Sistemas na FATEC-SJC.
 * **Motivação para entrar na Fatec:** Meu interesse pela área de tecnologia surgiu da vontade de compreender como soluções digitais transformam processos operacionais e resolvem gargalos reais nas organizações. Escolhi a FATEC São José dos Campos pela excelência reconhecida na formação tecnológica e, principalmente, pela metodologia ativa de Aprendizagem por Projetos Integrados (API), que proporciona vivência prática com clientes reais, trabalho em equipe sob metodologias ágeis e contato direto com as demandas do mercado desde o primeiro semestre.
+  
 * **Histórico Profissional:** 
-  * Desenvolvedor Fullstack Estágio — DBSNOOP Tecnologia em Banco de Dados LTDA. | São José dos Campos, SP | 07/2025 –
+  * **Desenvolvedor Fullstack Estágio** — DBSNOOP Tecnologia em Banco de Dados LTDA. | São José dos Campos, SP | 07/2025 –
 01/2026
 • Realizei manutenção e evolução de APIs desenvolvidas em PHP utilizando Programação Orientada a Objetos.
 • Desenvolvi e mantive funcionalidades de frontend utilizando Vue.js e Vuetify, com foco em usabilidade e responsividade.
@@ -22,12 +23,12 @@
 resposta.
 • Atuei na manutenção de bancos de dados MySQL, incluindo consultas, ajustes e procedures.
 • Refatorei módulos legados, melhorando organização, legibilidade e manutenibilidade do código.
-<br>
-  * Técnico de Suporte em TI — GH Tecnologia | Taubaté, SP | 02/2025 – Atual
+  * **Técnico de Suporte em TI** — GH Tecnologia | Taubaté, SP | 02/2025 – Atual
 • Realizo diagnóstico e resolução de incidentes relacionados a software, sistemas operacionais, redes e aplicações corporativas.
 • Investigo falhas por meio de análise de logs, testes e identificação de causa raiz.
 • Desenvolvo scripts em Java e automações para otimizar tarefas repetitivas e processos internos.
 • Colaboro com equipes técnicas na investigação e resolução de problemas relacionados a aplicações e infraestrutura.
+
 ### Informações de Contato
 * **E-mail:** [faelbc10@gmail.com](mailto:faelbc10@gmail.com)
 * **GitHub:** [github.com/Rafa2-bit](https://github.com/Rafa2-bit)
